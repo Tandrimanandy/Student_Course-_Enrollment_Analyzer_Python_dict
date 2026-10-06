@@ -1,4 +1,4 @@
-# : Student Performance System :
+#                                                        : Student Performance System :
 
 A menu-driven, console-based student record management and analysis application built in pure Python using **nested dictionaries**, **modular functions**, and **structured control flow**. No classes, no external libraries.
 
